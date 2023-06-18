@@ -1,3 +1,6 @@
 this is file1
 added additional line
+<<<<<<< HEAD
 adding line in remote 
+adding 2nd line to test merge conflict
+>>>>>>> 963b418 (testing merge conflict)
